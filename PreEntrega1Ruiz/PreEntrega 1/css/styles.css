@@ -1,0 +1,20 @@
+h1{
+    color: rgb(22, 189, 53);
+}
+header{
+    color:rgb(123, 207, 20);
+}
+body {
+    background-image: url(../img/mariahfondos.jpg);
+    padding: 150px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+#menu li a {
+color: whitesmoke;
+}
+@media only screen and (max-width:768px) {
+.billboard2 img {
+ height: 200px;
+}
+}
